@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  🎯 Em busca de oportunidade como <b>desenvolvedor backend júnior / estágio</b>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/gabriel-cysec" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -22,8 +18,6 @@
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)** na Cruzeiro do Sul
 - 💻 Experiência prática com **desenvolvimento backend, bancos de dados e sistemas ERP**
-- 🔐 Estudando para a certificação **CompTIA Security+ (SY0-701)**, aprofundando conhecimento em cibersegurança e infraestrutura de redes
-- 🛠️ Atualmente desenvolvendo o **Atlas Nova Clean**, uma plataforma de e-commerce full-stack construída do zero
 - 📫 Contato: [LinkedIn](https://www.linkedin.com/in/gabriel-cysec)
 
 ---
@@ -45,10 +39,24 @@
 
 ---
 
-### 📜 Certificações em andamento
+### 🔭 O que estou fazendo agora
 
-- 🔸 CompTIA Security+ (SY0-701) — *em progresso*
+- 💻 Desenvolvendo sistemas backend com foco em **Clean Architecture** e boas práticas
+- 🔐 Estudando para a certificação **CompTIA Security+ (SY0-701)**
+- 🐳 Aprofundando conhecimento em **Docker** e infraestrutura de redes
+- 🤝 Aberto a oportunidades como desenvolvedor backend júnior / estagiário de TI
 
 ---
 
 
+### 🐍 Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/killa9vv/killa9vv/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=killa9vv&label=Visitantes&color=blueviolet&style=flat" alt="Visitor Badge"/>
+</p>
