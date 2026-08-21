@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  🎯 Em busca de oportunidade como <b>desenvolvedor backend júnior / estágio</b>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/gabriel-cysec" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -41,31 +45,14 @@
 
 ---
 
-### 📌 Projeto em destaque
-
-#### 🛒 [Atlas Nova Clean](https://github.com/killa9vv/atlas-nova-clean)
-Plataforma de e-commerce full-stack para produtos de limpeza, descartáveis e papelaria.
-
-- **Backend:** NestJS + TypeScript, seguindo princípios de Clean Architecture
-- **Banco de dados:** PostgreSQL com Prisma ORM
-- **Frontend:** React (protótipo com identidade visual própria)
-- **Status:** em desenvolvimento ativo — módulo de produtos (CRUD) implementado, integração de pagamentos e cálculo de frete em andamento
-
----
-
 ### 📜 Certificações em andamento
 
 - 🔸 CompTIA Security+ (SY0-701) — *em progresso*
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=killa9vv&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=killa9vv&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=killa9vv&layout=compact&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=killa9vv&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
